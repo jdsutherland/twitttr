@@ -10,3 +10,4 @@
     - better_errors
     - guard & guard-livereload
 
+3. Work on layout with Bulma styles
