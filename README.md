@@ -9,4 +9,7 @@
     - guard & guard-livereload
     - devise
 3. Work on layout with Bulma styles
-4. Add devise user: `rails g devise User`
+4. Add devise user:
+    - add User `rails g devise User`
+    - add Registrations controller (manually)
+    - add fields to User
