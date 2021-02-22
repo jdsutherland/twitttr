@@ -13,3 +13,4 @@
     - add User `rails g devise User`
     - add Registrations controller (manually)
     - add fields to User
+5. Add User, Tweeets assocations
